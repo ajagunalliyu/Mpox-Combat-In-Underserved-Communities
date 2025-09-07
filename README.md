@@ -8,7 +8,7 @@ Mpox has become a global health concern, and there is an urgent need to combat i
 
 ---
 
-**[View the interactive dashboard here]([https://your-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9))**
+View the interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
 
 ---
 
@@ -51,7 +51,7 @@ We leveraged **Excel** and **Power BI** for data cleaning, analysis, and interac
 
 ### 5. Key Insights & Recommendations
 
-View the interactive dashboard **[here]([https://your-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9))**
+View the interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
 
 #### **1. The Looming Threat: Disease Burden & Trends**
 
@@ -111,4 +111,4 @@ I strongly believe that data-driven insights can close healthcare gaps, accelera
 
 ### 8. Link to Dashboard
 
-Access the full interactive dashboard **[here]([https://your-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9))**
+Access the full interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9)
