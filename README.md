@@ -37,7 +37,7 @@ Mpox continues to threaten underserved communities across Africa, where limited 
 
 ### 3. Objectives
 
-Our analysis aims to address these critical gaps to improve outbreak response and slow the risk of wider spread. Our primary objective is to uncover key virus outbreak patterns and provide actionable recommendations for targeted medical interventions to combat Mpox, with a specific focus on underserved communities.
+This analysis aims to address these critical gaps to improve outbreak response and slow the risk of wider spread. The primary objective is to uncover key virus outbreak patterns and provide actionable recommendations for targeted medical interventions to combat Mpox, with a specific focus on underserved communities.
 
 ---
 
