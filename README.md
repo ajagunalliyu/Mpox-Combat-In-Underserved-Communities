@@ -2,7 +2,11 @@
 
 # Mpox Outbreak Analysis: Data-Driven Insights for Strategic Intervention
 
-A project by the Med-Hackers Team
+### 1. Introduction
+
+Mpox has become a global health concern, and there is an urgent need to combat its outbreak, especially in underserved communities. Our team set out with one goal: to leverage data to highlight hidden risks of Mpox and propose practical, data-driven solutions for underserved communities. Over the past few weeks, we analyzed several records to uncover where interventions matter most and how data can save lives.
+
+---
 
 **[View the interactive dashboard here]([https://your-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiN2MxYTNmYjUtM2IwZC00ODExLTgyMTgtY2NjZjQwNzVmZmY1IiwidCI6ImI2NDU3ZDY4LTQzODgtNGMzYS04MjIyLTc0ZGU0NDU5ZDFlZiJ9))**
 
@@ -22,12 +26,6 @@ A project by the Med-Hackers Team
 6.  Conclusion
 7.  Dashboard Screenshot
 8.  Link to Dashboard
-
----
-
-### 1. Introduction
-
-Mpox has become a global health concern, and there is an urgent need to combat its outbreak, especially in underserved communities. Our team set out with one goal: to leverage data to highlight hidden risks of Mpox and propose practical, data-driven solutions for underserved communities. Over the past few weeks, we analyzed several records to uncover where interventions matter most and how data can save lives.
 
 ---
 
