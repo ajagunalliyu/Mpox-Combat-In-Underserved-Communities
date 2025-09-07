@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-Mpox has become a global health concern, and there is an urgent need to combat its outbreak, especially in underserved communities. Our team set out with one goal: to leverage data to highlight hidden risks of Mpox and propose practical, data-driven solutions for underserved communities. Over the past few weeks, we analyzed several records to uncover where interventions matter most and how data can save lives.
+Mpox has become a global health concern, and there is an urgent need to combat its outbreak, especially in underserved communities. The goal: to leverage data to highlight hidden risks of Mpox and propose practical, data-driven solutions for underserved communities. Over the past few weeks, we analyzed several records to uncover where interventions matter most and how data can save lives.
 
 ---
 
