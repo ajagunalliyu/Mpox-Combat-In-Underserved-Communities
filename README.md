@@ -105,7 +105,7 @@ I strongly believe that data-driven insights can close healthcare gaps, accelera
 
 ### 7. Dashboard Screenshot
 
-![Mpox Outbreak Analysis Dashboard Screenshot](mpoxscreenshot.png)
+![Mpox Outbreak Analysis Dashboard Screenshot](mpoxscreenshot.jpg)
 
 ---
 
